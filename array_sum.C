@@ -27,7 +27,7 @@ int main(void) {
       scanf("%d", &input[x]);
   }
   
-  printf("the array entered with length %d is\n", length);
+  printf("\nThe array entered with length %d is\n", length);
   for( i=0; i<length; i++){
     printf("%d\n", input[i]);
   }
